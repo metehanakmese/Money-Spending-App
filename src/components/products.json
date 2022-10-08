@@ -1,0 +1,27 @@
+[
+    {
+        "id":1,
+        "title":"Pepsi",
+        "price":10,
+        "image":"https://reimg-carrefour.mncdn.com/mnresize/600/600/productimage/30059956/30059956_0_MC/8796676292658_1600421573926.jpg"
+    },
+    {
+        "id":2,
+        "title":"Schweppes",
+        "price":12,
+        "image":"https://productimages.hepsiburada.net/s/264/300-443/110000248375833.jpg"
+    },
+    {
+        "id":3,
+        "title":"Nescafe Xpress",
+        "price":10,
+        "image":"https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/8079715/8079715-32b282-1650x1650.jpg"
+    },
+    {
+        "id":4,
+        "title":"Red Bull",
+        "price":15,
+        "image":"https://images.ctfassets.net/lcr8qbvxj7mh/41mzMDBG51otZRIZMDtGT5/e296e39343d66d28294dde847fc77fe9/TR_RBED_250_Single-Unit_close_ambient_ORIGINAL_canwidth528px.png"
+    }
+
+]
